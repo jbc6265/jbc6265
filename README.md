@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**jbc6265/jbc6265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요, jbc6265입니다 👋
 
-Here are some ideas to get you started:
+**생성형 AI와 일상 속 아이디어를 연결하는 사이드 프로젝트**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏢 HD건설기계 &nbsp; · &nbsp; 📍 부산
+
+[📫 Contact](mailto:jbc6265@gmail.com)
+
+</div>
+
+---
+
+## 👋 About Me
+
+HD건설기계에 소속되어 있으며, 부산에 살고 있습니다.  
+생성형 AI와 전기차에 관심을 두고, 일상에서 활용할 수 있는 앱을 사이드 프로젝트로 개발합니다.
+
+## 💡 Interests
+
+| 관심 분야 | 키워드 |
+| :--- | :--- |
+| 🤖 생성형 AI | 생성형 AI |
+| ⚡ 전기차 | 테슬라 |
+| ⚽ 축구 | 국내 · 해외 축구 |
+| ▶️ 유튜브 | 유튜브 콘텐츠 |
+
+## 🛠️ Side Projects
+
+### ⚡ 아파트 전기차 충전기 현황 모니터링 앱
+
+아파트 내 전기차 충전기 현황을 확인할 수 있는 모니터링 앱 개발 프로젝트입니다.
+
+### 🧊 냉장고 유통기한 관리 앱
+
+냉장고 속 식품의 유통기한을 관리하는 앱 개발 프로젝트입니다.
+
+---
+
+## 📫 Contact
+
+이메일: [jbc6265@gmail.com](mailto:jbc6265@gmail.com)
