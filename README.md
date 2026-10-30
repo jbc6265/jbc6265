@@ -4,7 +4,6 @@
 
 **생성형 AI와 일상 속 아이디어를 연결하는 사이드 프로젝트**
 
-🏢 HD건설기계 &nbsp; · &nbsp; 📍 부산
 
 [📫 Contact](mailto:jbc6265@gmail.com)
 
